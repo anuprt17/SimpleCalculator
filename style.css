@@ -1,0 +1,27 @@
+.calculator{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(23, 97, 82);
+    border-radius: 5px;
+}
+#btn{
+    background-color: rgb(212, 184, 255);
+}
+
+.display{
+    background-color: rgb(184, 243, 243);
+    height: 120px;
+    width: 380px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input[type=button]{
+    background-color: rgb(255, 143, 143);
+    height: 120px;
+    width: 120px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
